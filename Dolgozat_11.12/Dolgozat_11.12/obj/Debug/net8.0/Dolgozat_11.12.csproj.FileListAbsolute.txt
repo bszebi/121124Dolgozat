@@ -1,0 +1,14 @@
+C:\Users\Ny19BalgaS\source\repos\Dolgozat_11.12\Dolgozat_11.12\bin\Debug\net8.0\Dolgozat_11.12.exe
+C:\Users\Ny19BalgaS\source\repos\Dolgozat_11.12\Dolgozat_11.12\bin\Debug\net8.0\Dolgozat_11.12.deps.json
+C:\Users\Ny19BalgaS\source\repos\Dolgozat_11.12\Dolgozat_11.12\bin\Debug\net8.0\Dolgozat_11.12.runtimeconfig.json
+C:\Users\Ny19BalgaS\source\repos\Dolgozat_11.12\Dolgozat_11.12\bin\Debug\net8.0\Dolgozat_11.12.dll
+C:\Users\Ny19BalgaS\source\repos\Dolgozat_11.12\Dolgozat_11.12\bin\Debug\net8.0\Dolgozat_11.12.pdb
+C:\Users\Ny19BalgaS\source\repos\Dolgozat_11.12\Dolgozat_11.12\obj\Debug\net8.0\Dolgozat_11.12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ny19BalgaS\source\repos\Dolgozat_11.12\Dolgozat_11.12\obj\Debug\net8.0\Dolgozat_11.12.AssemblyInfoInputs.cache
+C:\Users\Ny19BalgaS\source\repos\Dolgozat_11.12\Dolgozat_11.12\obj\Debug\net8.0\Dolgozat_11.12.AssemblyInfo.cs
+C:\Users\Ny19BalgaS\source\repos\Dolgozat_11.12\Dolgozat_11.12\obj\Debug\net8.0\Dolgozat_11.12.csproj.CoreCompileInputs.cache
+C:\Users\Ny19BalgaS\source\repos\Dolgozat_11.12\Dolgozat_11.12\obj\Debug\net8.0\Dolgozat_11.12.dll
+C:\Users\Ny19BalgaS\source\repos\Dolgozat_11.12\Dolgozat_11.12\obj\Debug\net8.0\refint\Dolgozat_11.12.dll
+C:\Users\Ny19BalgaS\source\repos\Dolgozat_11.12\Dolgozat_11.12\obj\Debug\net8.0\Dolgozat_11.12.pdb
+C:\Users\Ny19BalgaS\source\repos\Dolgozat_11.12\Dolgozat_11.12\obj\Debug\net8.0\Dolgozat_11.12.genruntimeconfig.cache
+C:\Users\Ny19BalgaS\source\repos\Dolgozat_11.12\Dolgozat_11.12\obj\Debug\net8.0\ref\Dolgozat_11.12.dll
